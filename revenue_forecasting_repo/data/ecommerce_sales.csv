@@ -1,0 +1,1001 @@
+date,category,region,promo,sales
+2023-05-11,Electronics,Europe,1,316
+2023-11-11,Electronics,Asia,0,333
+2021-05-02,Electronics,Europe,1,486
+2022-04-12,Fashion,North America,0,356
+2021-11-27,Fashion,Europe,1,636
+2021-03-29,Books,Asia,0,797
+2023-05-22,Home,North America,0,383
+2021-05-11,Electronics,Asia,0,547
+2023-02-09,Fashion,North America,1,599
+2021-12-10,Fashion,Europe,0,594
+2023-03-17,Electronics,Asia,0,515
+2022-01-21,Home,Asia,0,648
+2023-08-14,Electronics,North America,0,596
+2021-10-04,Home,Asia,0,252
+2022-04-05,Fashion,North America,1,673
+2021-01-22,Home,North America,1,677
+2021-09-10,Books,North America,0,347
+2023-01-18,Fashion,North America,1,507
+2023-05-07,Books,Europe,0,636
+2022-04-20,Electronics,North America,1,458
+2023-12-19,Electronics,Asia,1,714
+2022-05-26,Electronics,Europe,0,972
+2022-12-01,Home,Asia,1,342
+2023-09-03,Fashion,Europe,0,223
+2021-07-09,Electronics,North America,0,560
+2023-08-16,Electronics,Europe,1,644
+2022-11-18,Fashion,Europe,0,453
+2023-08-16,Electronics,Asia,0,790
+2022-07-17,Books,Asia,0,232
+2023-04-12,Fashion,North America,1,638
+2022-10-09,Fashion,Europe,0,378
+2021-01-21,Fashion,Europe,0,843
+2023-04-21,Books,Europe,1,898
+2021-06-16,Fashion,North America,1,346
+2022-01-23,Books,North America,0,390
+2022-08-24,Fashion,North America,0,671
+2021-11-12,Home,North America,0,422
+2021-01-14,Electronics,North America,0,490
+2021-08-30,Home,Asia,0,505
+2023-02-16,Electronics,Europe,1,116
+2022-07-19,Books,Europe,0,497
+2023-06-17,Home,Europe,0,362
+2021-04-02,Fashion,Europe,0,401
+2023-08-14,Electronics,Europe,1,788
+2022-05-24,Electronics,Europe,0,248
+2023-02-15,Home,Europe,1,662
+2021-02-04,Books,Europe,0,444
+2021-07-25,Home,Asia,0,444
+2023-10-23,Books,Europe,0,658
+2023-10-19,Books,Asia,0,568
+2022-07-20,Electronics,North America,0,614
+2022-12-04,Home,Europe,0,693
+2022-02-06,Home,North America,0,433
+2022-12-31,Books,North America,1,377
+2021-06-11,Home,North America,0,282
+2021-07-21,Fashion,Asia,1,334
+2023-09-23,Fashion,North America,0,1089
+2021-09-27,Home,North America,0,748
+2023-03-27,Home,North America,0,229
+2022-04-01,Books,Europe,0,235
+2023-10-14,Fashion,Europe,0,596
+2021-10-23,Fashion,Asia,0,609
+2022-12-21,Electronics,Asia,0,609
+2021-12-04,Books,Europe,0,449
+2023-05-29,Electronics,Asia,0,474
+2023-12-13,Fashion,Europe,1,565
+2023-03-03,Books,North America,1,517
+2021-08-05,Home,North America,1,56
+2023-02-03,Books,Asia,1,454
+2021-07-07,Home,Europe,0,329
+2022-01-15,Home,Europe,0,535
+2022-05-08,Books,Asia,1,1097
+2023-12-01,Home,Europe,0,573
+2021-01-15,Electronics,North America,0,437
+2021-03-06,Fashion,Asia,0,684
+2022-06-05,Home,Asia,0,596
+2022-10-10,Electronics,Europe,0,584
+2023-12-23,Home,Asia,1,621
+2022-08-16,Fashion,Europe,0,911
+2022-01-27,Electronics,Europe,0,273
+2022-02-23,Fashion,Europe,1,594
+2021-10-16,Fashion,Europe,0,314
+2022-01-14,Electronics,Europe,0,611
+2021-08-19,Electronics,Asia,0,316
+2023-10-15,Electronics,North America,1,416
+2021-02-10,Books,North America,1,440
+2023-11-18,Electronics,Asia,0,695
+2021-05-15,Electronics,Asia,1,683
+2021-07-20,Electronics,North America,0,250
+2023-02-19,Electronics,North America,1,510
+2023-07-19,Home,North America,1,358
+2023-11-23,Books,North America,1,248
+2023-12-08,Fashion,North America,0,456
+2022-05-18,Electronics,Europe,1,438
+2022-02-11,Home,Asia,1,985
+2023-03-16,Home,Europe,0,586
+2021-04-09,Home,North America,1,224
+2022-11-15,Fashion,North America,0,387
+2022-12-27,Electronics,North America,1,704
+2023-08-19,Books,Europe,0,917
+2022-09-05,Books,Europe,1,182
+2022-10-05,Home,North America,0,124
+2023-10-26,Fashion,Europe,0,874
+2022-05-18,Fashion,Europe,0,577
+2023-02-06,Fashion,North America,0,326
+2022-02-02,Books,Europe,0,606
+2023-05-21,Home,Asia,0,0
+2023-03-06,Electronics,Asia,0,500
+2022-01-28,Books,Asia,0,565
+2021-07-26,Home,Asia,0,684
+2023-11-05,Home,North America,1,297
+2023-06-11,Electronics,North America,0,517
+2023-05-14,Electronics,North America,1,314
+2023-01-13,Electronics,Asia,1,551
+2022-07-18,Fashion,Asia,0,320
+2023-10-18,Electronics,Europe,0,418
+2021-04-06,Home,Europe,1,300
+2022-04-30,Electronics,Asia,0,630
+2021-08-19,Home,Asia,0,671
+2023-01-19,Books,Asia,0,453
+2022-06-25,Fashion,Asia,1,507
+2023-11-26,Books,Europe,0,210
+2022-06-09,Books,Asia,0,440
+2022-08-01,Home,Europe,1,489
+2022-11-13,Books,Asia,1,1024
+2022-07-11,Home,Asia,0,277
+2023-10-10,Electronics,Asia,0,792
+2022-10-08,Electronics,Europe,1,699
+2023-03-07,Home,Europe,0,556
+2023-11-18,Electronics,North America,0,851
+2021-07-09,Fashion,Asia,0,574
+2022-09-25,Books,North America,1,577
+2022-09-20,Fashion,North America,0,489
+2023-08-31,Books,Europe,1,744
+2022-12-11,Electronics,Europe,1,719
+2022-10-11,Fashion,North America,0,374
+2021-11-14,Electronics,Asia,0,236
+2022-11-15,Books,Europe,0,459
+2022-10-26,Home,Asia,0,339
+2022-03-18,Home,Asia,0,487
+2022-07-18,Fashion,North America,1,747
+2023-08-10,Electronics,North America,0,408
+2022-11-30,Electronics,North America,1,491
+2021-04-23,Fashion,North America,0,511
+2021-01-02,Home,Europe,0,669
+2022-10-04,Books,Europe,0,50
+2021-08-08,Fashion,North America,0,378
+2023-05-05,Books,Europe,1,542
+2022-01-20,Home,North America,0,740
+2023-12-13,Electronics,Asia,0,401
+2022-12-31,Home,Asia,0,124
+2021-09-04,Fashion,Asia,0,623
+2023-04-16,Electronics,North America,0,372
+2021-07-22,Fashion,Asia,0,262
+2021-05-03,Fashion,Europe,1,375
+2022-02-05,Home,Asia,0,463
+2023-02-06,Fashion,Asia,1,379
+2021-10-21,Home,Asia,0,58
+2021-10-07,Electronics,Europe,0,679
+2023-06-03,Home,North America,0,754
+2021-07-17,Electronics,Europe,0,630
+2023-09-09,Home,North America,0,272
+2023-01-22,Books,North America,0,459
+2021-05-24,Books,Asia,0,498
+2022-09-01,Fashion,North America,0,619
+2021-07-06,Home,Europe,0,633
+2022-04-09,Home,Europe,1,353
+2022-10-22,Electronics,North America,0,516
+2023-02-03,Fashion,Asia,0,591
+2023-08-13,Home,Asia,0,791
+2022-02-07,Fashion,Europe,0,640
+2021-05-27,Books,Asia,0,657
+2023-05-14,Home,North America,0,516
+2022-05-04,Home,North America,0,782
+2023-07-18,Fashion,Europe,0,581
+2022-07-05,Home,North America,0,327
+2021-12-04,Fashion,Europe,0,780
+2023-05-22,Home,North America,0,639
+2022-10-03,Electronics,Europe,0,411
+2022-04-18,Fashion,Asia,0,404
+2021-05-31,Home,North America,1,559
+2021-09-20,Books,North America,0,592
+2021-05-24,Home,Europe,0,539
+2021-12-12,Books,Europe,0,562
+2022-09-16,Books,North America,1,839
+2023-10-14,Electronics,Europe,0,714
+2023-05-31,Fashion,North America,0,538
+2021-01-02,Home,Asia,0,688
+2023-06-16,Electronics,Europe,0,293
+2021-09-11,Home,North America,0,579
+2022-03-29,Books,Asia,0,861
+2023-11-27,Fashion,Asia,1,456
+2023-10-12,Home,North America,0,330
+2021-01-09,Home,Europe,1,369
+2023-03-27,Books,North America,1,282
+2021-07-27,Home,Asia,0,343
+2022-02-08,Home,North America,0,425
+2021-06-01,Books,Europe,0,218
+2021-02-23,Electronics,Asia,0,503
+2022-09-20,Books,North America,0,680
+2022-08-10,Electronics,Europe,1,318
+2021-04-14,Fashion,Asia,1,803
+2021-09-11,Electronics,Europe,0,602
+2022-05-25,Electronics,Asia,0,706
+2021-04-09,Fashion,North America,1,368
+2021-06-02,Electronics,Europe,1,670
+2023-07-03,Books,Asia,1,281
+2023-05-28,Electronics,Europe,0,678
+2021-12-04,Fashion,Europe,0,534
+2023-04-02,Books,North America,0,610
+2023-08-15,Fashion,Europe,0,264
+2021-06-10,Fashion,Asia,0,320
+2023-03-12,Home,Asia,0,619
+2022-02-02,Home,Asia,0,310
+2023-03-27,Fashion,Asia,0,592
+2022-02-05,Fashion,North America,0,226
+2022-10-02,Fashion,Europe,0,669
+2023-11-23,Home,North America,0,253
+2022-11-19,Home,Europe,0,610
+2022-04-05,Electronics,Europe,0,625
+2023-08-13,Electronics,Europe,1,360
+2022-04-15,Fashion,North America,0,616
+2023-11-12,Books,Europe,0,552
+2023-01-20,Books,North America,0,392
+2021-02-07,Home,Asia,1,298
+2021-08-18,Home,Asia,0,107
+2022-07-17,Home,Europe,0,569
+2022-03-14,Fashion,North America,0,187
+2021-01-27,Books,Asia,0,519
+2021-08-14,Electronics,North America,0,447
+2023-03-09,Fashion,North America,0,635
+2021-10-11,Electronics,Europe,1,439
+2023-05-29,Electronics,Asia,0,434
+2023-08-18,Fashion,Europe,1,646
+2022-03-29,Electronics,Europe,1,567
+2023-10-17,Books,Asia,0,563
+2023-03-27,Electronics,Asia,1,593
+2022-10-21,Books,North America,0,192
+2022-07-01,Books,Asia,0,651
+2023-12-09,Books,North America,0,622
+2021-01-17,Home,North America,0,296
+2021-06-07,Electronics,North America,0,451
+2022-04-22,Fashion,Asia,0,492
+2023-12-06,Fashion,Europe,0,473
+2022-06-02,Electronics,North America,0,566
+2021-04-09,Home,Europe,0,786
+2023-11-27,Home,Europe,0,716
+2021-10-07,Books,Asia,0,237
+2022-05-12,Electronics,Europe,0,624
+2021-10-29,Electronics,Europe,1,765
+2021-06-30,Fashion,Asia,0,577
+2022-08-30,Electronics,North America,1,718
+2022-12-01,Home,Europe,0,902
+2023-09-20,Electronics,Asia,0,704
+2021-07-10,Fashion,Europe,0,549
+2021-09-10,Books,Europe,0,709
+2023-09-08,Fashion,North America,0,528
+2023-07-17,Fashion,Europe,1,504
+2021-05-08,Books,Asia,0,429
+2021-01-18,Fashion,Europe,1,812
+2022-07-20,Fashion,North America,1,336
+2022-07-24,Electronics,North America,1,806
+2022-11-17,Electronics,Asia,1,599
+2022-09-18,Books,North America,0,220
+2023-05-04,Electronics,Europe,0,573
+2023-08-20,Electronics,North America,0,79
+2021-06-04,Fashion,Asia,0,625
+2022-05-05,Home,North America,0,677
+2023-02-24,Electronics,North America,1,381
+2021-09-03,Home,North America,0,524
+2023-11-29,Electronics,Asia,0,890
+2023-01-29,Electronics,North America,0,398
+2022-06-22,Books,North America,0,288
+2023-07-10,Books,Europe,0,796
+2022-02-12,Books,Asia,1,892
+2022-06-09,Home,North America,0,500
+2023-04-08,Fashion,Asia,0,702
+2023-06-22,Electronics,North America,0,768
+2021-02-05,Electronics,North America,0,351
+2022-11-16,Electronics,North America,0,402
+2021-01-20,Home,Europe,0,746
+2021-11-17,Books,Europe,0,837
+2022-05-27,Fashion,Europe,0,612
+2022-02-04,Home,Asia,0,324
+2022-10-16,Books,Asia,0,897
+2023-08-30,Home,Europe,0,393
+2022-04-16,Fashion,Asia,0,432
+2023-04-14,Books,North America,0,568
+2022-12-28,Home,North America,1,810
+2023-05-04,Fashion,North America,0,670
+2021-02-20,Electronics,Europe,0,582
+2022-07-29,Fashion,Asia,0,592
+2021-05-30,Electronics,Europe,0,508
+2021-11-10,Home,Asia,0,611
+2022-07-24,Books,North America,0,0
+2021-11-01,Books,Europe,1,440
+2022-11-13,Home,Asia,0,548
+2023-04-18,Books,Asia,0,269
+2023-12-14,Books,North America,0,577
+2023-09-30,Electronics,Europe,0,459
+2022-03-20,Home,Europe,0,851
+2022-09-05,Fashion,Europe,0,814
+2023-09-20,Electronics,North America,1,406
+2021-09-21,Home,Europe,0,469
+2023-12-13,Electronics,North America,0,485
+2023-10-01,Fashion,North America,1,409
+2021-01-05,Fashion,North America,0,539
+2023-02-13,Home,Asia,1,348
+2023-05-27,Fashion,Europe,0,273
+2023-09-19,Electronics,Europe,1,624
+2023-06-03,Fashion,North America,0,625
+2021-02-16,Electronics,North America,1,339
+2023-05-17,Electronics,Europe,1,679
+2023-04-03,Fashion,North America,0,373
+2023-07-25,Home,Europe,1,550
+2022-10-18,Books,Asia,0,664
+2021-09-26,Fashion,North America,0,493
+2022-01-05,Electronics,Europe,0,590
+2022-09-28,Electronics,North America,0,396
+2022-10-19,Fashion,Europe,0,460
+2021-04-30,Home,Europe,0,458
+2023-04-11,Home,North America,0,350
+2023-12-18,Electronics,Asia,1,464
+2023-01-11,Electronics,Europe,1,190
+2021-04-27,Home,Europe,0,401
+2023-03-02,Books,Europe,0,443
+2023-10-10,Fashion,Asia,0,448
+2023-12-18,Electronics,Asia,0,451
+2022-09-26,Electronics,North America,0,487
+2022-05-28,Home,Asia,0,595
+2023-03-13,Fashion,North America,0,674
+2022-07-14,Home,North America,1,370
+2022-05-03,Fashion,Asia,0,259
+2023-06-16,Fashion,North America,0,291
+2022-12-05,Fashion,Asia,0,402
+2022-08-04,Electronics,North America,0,429
+2023-03-01,Books,Asia,0,346
+2023-05-11,Home,Asia,0,240
+2021-09-04,Books,North America,0,408
+2021-06-03,Home,Europe,0,536
+2023-09-24,Fashion,North America,1,619
+2022-11-28,Electronics,Asia,1,388
+2023-12-29,Books,Europe,0,417
+2023-12-07,Electronics,North America,0,314
+2023-10-06,Home,North America,0,493
+2021-04-04,Electronics,North America,0,330
+2023-08-16,Electronics,Europe,0,614
+2023-10-09,Books,Asia,0,142
+2022-03-29,Fashion,North America,0,428
+2023-07-01,Electronics,North America,0,560
+2021-08-06,Fashion,North America,0,536
+2022-04-19,Home,North America,1,1038
+2022-03-08,Electronics,North America,1,569
+2021-12-07,Books,Asia,1,299
+2022-07-05,Home,Asia,0,480
+2021-12-23,Home,North America,1,144
+2021-01-23,Books,Europe,0,483
+2022-06-06,Electronics,Asia,1,333
+2023-03-13,Electronics,Europe,0,683
+2023-02-01,Home,Asia,1,390
+2022-03-18,Electronics,North America,0,476
+2023-02-08,Fashion,Asia,1,372
+2023-10-13,Books,North America,1,847
+2022-05-31,Fashion,Asia,0,435
+2023-11-06,Electronics,North America,0,866
+2023-03-03,Home,North America,1,662
+2021-12-02,Books,North America,0,596
+2021-09-15,Electronics,North America,1,573
+2022-05-12,Electronics,Europe,0,578
+2023-06-15,Home,North America,0,114
+2021-06-09,Home,Europe,0,444
+2023-05-02,Fashion,Europe,0,669
+2022-11-21,Books,North America,1,490
+2022-01-15,Books,Europe,0,218
+2023-08-15,Home,Asia,0,489
+2022-11-22,Fashion,North America,0,840
+2023-12-03,Books,Europe,0,749
+2021-10-12,Home,North America,1,487
+2022-02-01,Electronics,North America,1,690
+2021-01-12,Books,North America,0,426
+2022-05-14,Fashion,Europe,1,159
+2023-01-24,Fashion,Asia,1,315
+2021-02-04,Fashion,Asia,0,812
+2022-12-28,Electronics,Europe,1,445
+2023-04-29,Books,North America,0,451
+2021-03-31,Books,Europe,0,440
+2023-02-15,Electronics,Europe,1,880
+2022-08-28,Books,Europe,0,825
+2023-08-28,Electronics,North America,1,943
+2023-10-19,Electronics,Europe,1,468
+2022-02-22,Electronics,North America,0,559
+2021-04-25,Fashion,Europe,1,196
+2022-09-09,Books,Asia,0,795
+2023-04-06,Electronics,Europe,0,266
+2022-02-17,Books,Europe,0,543
+2022-12-30,Fashion,Asia,1,280
+2023-10-18,Electronics,North America,0,382
+2023-01-31,Home,North America,0,332
+2022-11-07,Fashion,Europe,0,378
+2022-04-02,Home,Asia,1,392
+2023-07-09,Books,North America,0,390
+2021-07-11,Books,Europe,0,666
+2023-01-09,Fashion,Asia,0,279
+2023-09-05,Books,North America,0,544
+2023-10-06,Home,North America,1,743
+2021-04-06,Electronics,Asia,0,397
+2022-10-25,Electronics,Asia,0,356
+2021-02-06,Electronics,Asia,1,453
+2021-10-06,Fashion,Asia,0,735
+2021-08-05,Books,Europe,1,538
+2023-05-17,Home,Asia,0,393
+2023-05-23,Books,North America,1,596
+2021-03-03,Books,North America,0,279
+2022-08-19,Books,Europe,0,636
+2022-12-30,Electronics,North America,1,581
+2022-02-01,Home,North America,1,438
+2022-11-30,Home,Asia,1,332
+2023-11-09,Books,North America,0,322
+2021-06-26,Electronics,Europe,1,606
+2022-01-31,Electronics,Asia,1,745
+2022-03-21,Home,Asia,0,372
+2021-03-17,Electronics,Europe,1,591
+2021-09-22,Electronics,Asia,1,82
+2022-03-31,Electronics,Asia,0,383
+2022-12-19,Fashion,Europe,0,493
+2023-01-05,Books,Asia,0,318
+2023-05-01,Home,Europe,0,312
+2021-05-24,Home,Europe,0,366
+2023-06-04,Fashion,North America,0,558
+2023-12-29,Books,North America,0,462
+2022-01-31,Home,Asia,0,52
+2023-11-15,Electronics,Asia,0,75
+2023-08-06,Home,Europe,1,378
+2023-06-10,Electronics,Asia,1,591
+2022-07-23,Fashion,Europe,0,0
+2023-11-29,Electronics,Europe,1,400
+2021-04-19,Home,Asia,0,394
+2023-12-02,Home,Europe,0,777
+2023-07-24,Home,North America,0,422
+2022-02-02,Fashion,Asia,0,576
+2022-09-26,Fashion,North America,1,528
+2023-01-03,Books,Asia,1,73
+2021-08-23,Home,Europe,0,653
+2022-10-20,Electronics,Asia,0,543
+2023-01-21,Fashion,North America,0,601
+2022-08-11,Home,Europe,0,1285
+2023-10-30,Home,Asia,0,83
+2023-08-12,Fashion,Asia,0,844
+2022-05-07,Books,Asia,1,442
+2023-07-02,Fashion,North America,1,557
+2021-06-19,Fashion,North America,0,490
+2023-08-04,Electronics,Asia,1,415
+2023-03-06,Electronics,Europe,0,386
+2022-09-26,Books,Europe,0,565
+2021-01-29,Home,North America,0,196
+2021-12-05,Fashion,Europe,0,650
+2022-05-15,Books,North America,1,416
+2022-05-26,Electronics,Asia,0,273
+2021-08-05,Fashion,North America,0,409
+2023-12-30,Home,North America,0,751
+2022-03-21,Electronics,Asia,0,392
+2023-05-26,Electronics,Europe,1,571
+2021-06-16,Electronics,North America,0,353
+2021-04-01,Books,North America,0,651
+2022-12-15,Home,Asia,0,637
+2021-02-08,Fashion,Europe,0,869
+2021-06-22,Books,North America,0,464
+2022-10-15,Books,Asia,0,633
+2023-01-24,Books,North America,0,519
+2023-12-18,Electronics,Asia,1,759
+2022-04-21,Home,Europe,1,356
+2022-04-01,Books,Europe,1,649
+2023-04-09,Fashion,Europe,0,461
+2023-06-14,Home,Europe,0,487
+2023-10-22,Fashion,North America,0,518
+2022-01-22,Home,North America,1,550
+2021-12-14,Fashion,Europe,0,476
+2021-07-09,Electronics,Europe,0,542
+2022-05-20,Books,Europe,0,815
+2023-04-04,Fashion,North America,0,697
+2023-07-18,Home,Europe,0,673
+2023-07-23,Books,Europe,0,408
+2021-05-14,Books,Europe,1,322
+2021-02-27,Home,Asia,0,691
+2022-11-16,Fashion,Europe,0,675
+2022-11-03,Electronics,Asia,0,794
+2021-06-22,Electronics,Asia,0,379
+2023-03-26,Fashion,Europe,0,454
+2021-03-21,Books,Asia,1,172
+2023-06-05,Books,Europe,0,421
+2021-07-22,Books,North America,1,699
+2023-02-03,Books,North America,0,406
+2021-02-16,Fashion,North America,0,628
+2022-10-18,Books,North America,1,461
+2022-04-16,Home,Asia,0,564
+2023-08-29,Books,Europe,0,270
+2023-11-02,Electronics,Europe,0,517
+2023-01-06,Books,Europe,0,0
+2023-02-23,Fashion,North America,1,462
+2023-08-26,Electronics,North America,0,173
+2021-12-24,Fashion,Europe,1,741
+2023-08-30,Fashion,North America,1,655
+2022-10-30,Electronics,Europe,0,593
+2022-01-08,Fashion,Europe,1,804
+2023-10-29,Fashion,Europe,0,310
+2022-11-07,Books,Europe,1,849
+2021-03-31,Home,Europe,0,686
+2022-11-29,Fashion,Europe,0,452
+2022-06-24,Fashion,Europe,0,727
+2023-01-02,Fashion,North America,0,278
+2023-05-19,Books,Europe,0,335
+2021-02-10,Home,Europe,1,378
+2023-01-10,Electronics,North America,0,394
+2022-05-17,Books,North America,0,288
+2023-08-17,Books,North America,1,744
+2023-07-18,Home,Europe,0,448
+2022-04-06,Home,Asia,1,570
+2023-01-02,Books,Asia,1,385
+2023-01-22,Electronics,North America,1,135
+2023-07-14,Books,Asia,1,554
+2023-06-28,Home,North America,0,117
+2022-01-25,Electronics,Europe,0,486
+2023-06-02,Home,Asia,1,226
+2021-09-13,Electronics,Europe,0,897
+2022-12-10,Fashion,Asia,0,682
+2022-03-26,Home,Europe,0,521
+2021-01-10,Home,Asia,1,752
+2023-04-04,Books,Europe,0,330
+2023-03-09,Home,Europe,0,608
+2023-05-27,Home,Asia,0,539
+2023-10-26,Fashion,Europe,0,552
+2023-10-13,Home,Europe,0,754
+2022-01-09,Fashion,Europe,0,646
+2023-12-25,Fashion,Asia,0,557
+2021-05-26,Fashion,Asia,1,169
+2021-08-12,Fashion,Europe,0,307
+2021-06-26,Electronics,Europe,1,475
+2023-05-03,Books,Asia,1,518
+2021-03-04,Electronics,Asia,0,273
+2023-04-07,Home,Europe,0,982
+2023-03-06,Electronics,Europe,0,803
+2022-11-20,Electronics,Europe,1,620
+2021-04-15,Home,North America,0,514
+2022-05-26,Home,Asia,0,457
+2022-01-20,Home,North America,0,309
+2022-02-09,Electronics,Asia,0,515
+2023-04-03,Electronics,Asia,0,551
+2022-06-02,Home,Asia,0,251
+2022-04-21,Books,Asia,1,566
+2022-12-10,Books,Asia,0,468
+2023-02-10,Fashion,Asia,0,118
+2023-11-13,Home,Asia,0,327
+2023-09-24,Fashion,North America,1,417
+2022-11-08,Books,Europe,0,877
+2022-12-15,Fashion,Europe,1,611
+2021-03-24,Home,North America,0,232
+2022-04-02,Home,North America,0,597
+2021-01-01,Home,North America,0,190
+2021-02-20,Electronics,North America,0,716
+2022-11-16,Fashion,Asia,0,405
+2022-12-18,Books,Europe,0,481
+2022-03-25,Books,Asia,1,765
+2023-05-31,Books,Europe,0,242
+2022-05-03,Electronics,Europe,0,220
+2021-02-03,Electronics,North America,0,383
+2021-04-05,Home,Asia,0,707
+2021-06-03,Books,North America,0,196
+2021-09-07,Electronics,Asia,0,0
+2022-11-05,Home,Europe,0,409
+2022-03-14,Books,North America,0,610
+2021-04-28,Fashion,North America,0,740
+2023-02-10,Home,Europe,0,407
+2021-09-25,Electronics,Europe,0,417
+2023-12-14,Electronics,Europe,0,730
+2021-08-24,Home,North America,1,126
+2022-01-24,Home,Asia,0,422
+2023-09-17,Electronics,North America,0,538
+2023-02-02,Fashion,Asia,0,589
+2022-02-05,Books,North America,1,398
+2022-09-16,Fashion,North America,1,506
+2023-02-06,Home,Europe,0,2
+2023-07-08,Fashion,Asia,1,368
+2023-05-03,Electronics,North America,0,590
+2022-08-01,Home,North America,0,303
+2021-03-16,Books,Europe,1,511
+2022-03-11,Electronics,Europe,1,589
+2021-04-13,Electronics,Asia,0,431
+2023-02-03,Books,North America,0,534
+2023-01-08,Books,Asia,0,307
+2023-03-17,Fashion,North America,0,458
+2021-04-08,Home,Asia,1,622
+2023-03-09,Books,Europe,0,531
+2023-05-09,Books,North America,0,382
+2022-03-11,Home,Asia,0,544
+2022-03-23,Books,Europe,0,642
+2021-09-06,Books,Europe,0,90
+2021-06-15,Fashion,Asia,0,731
+2023-09-11,Electronics,North America,1,432
+2023-10-17,Electronics,North America,1,585
+2022-06-26,Electronics,Europe,0,739
+2023-01-29,Electronics,North America,1,225
+2021-03-22,Books,North America,1,358
+2021-05-13,Home,North America,1,442
+2023-03-08,Home,Europe,0,343
+2023-06-19,Fashion,Asia,0,846
+2021-05-18,Fashion,North America,0,328
+2021-07-03,Books,Europe,0,388
+2023-02-24,Home,Europe,0,540
+2023-09-11,Home,Asia,0,259
+2021-03-10,Electronics,North America,0,420
+2022-06-30,Books,North America,1,563
+2021-02-22,Books,Asia,0,433
+2021-07-24,Electronics,Asia,0,481
+2021-05-06,Books,Europe,1,394
+2021-02-12,Books,Europe,1,197
+2021-04-21,Fashion,Asia,1,564
+2023-01-31,Home,North America,1,850
+2023-04-28,Books,Europe,0,503
+2021-04-05,Fashion,Europe,1,545
+2023-06-19,Home,North America,0,638
+2021-12-26,Electronics,Europe,0,246
+2023-06-19,Fashion,North America,0,840
+2021-10-08,Fashion,North America,0,540
+2022-10-29,Home,North America,0,826
+2021-04-03,Electronics,Asia,0,353
+2022-11-03,Fashion,Asia,1,863
+2021-03-02,Books,Asia,0,655
+2022-09-26,Books,North America,0,610
+2023-12-11,Books,North America,1,546
+2023-10-26,Electronics,Asia,0,450
+2022-08-27,Fashion,Europe,0,740
+2022-11-13,Books,North America,0,528
+2022-06-18,Electronics,Europe,0,106
+2023-04-18,Books,Europe,0,276
+2022-10-07,Home,North America,1,462
+2021-08-21,Fashion,North America,0,561
+2022-06-08,Fashion,Europe,0,488
+2021-12-12,Electronics,Europe,1,743
+2023-12-06,Electronics,Asia,1,109
+2022-06-30,Fashion,Asia,0,528
+2023-03-05,Books,North America,0,136
+2021-09-06,Books,Asia,0,651
+2021-02-16,Home,Asia,0,481
+2021-08-02,Books,Asia,0,583
+2021-08-27,Electronics,Asia,0,327
+2023-12-16,Electronics,Europe,1,755
+2021-12-16,Books,North America,0,708
+2021-04-17,Electronics,Asia,0,616
+2023-04-11,Fashion,Europe,0,474
+2021-02-17,Fashion,Europe,0,615
+2021-12-03,Books,Europe,0,358
+2023-11-16,Fashion,Asia,0,671
+2023-03-15,Fashion,Asia,1,829
+2021-01-08,Home,North America,0,714
+2022-09-17,Home,Asia,0,354
+2022-12-20,Fashion,Asia,0,572
+2021-10-30,Books,Europe,0,241
+2022-10-01,Home,North America,0,614
+2021-02-25,Electronics,Asia,0,590
+2022-12-27,Electronics,Asia,0,126
+2022-06-10,Electronics,Europe,0,267
+2022-04-19,Books,Europe,1,443
+2021-01-28,Fashion,Asia,1,439
+2021-03-19,Electronics,North America,1,258
+2021-12-31,Books,North America,1,577
+2022-10-28,Home,Europe,0,550
+2022-06-10,Fashion,Europe,1,461
+2022-11-30,Home,Asia,0,348
+2023-06-02,Books,Europe,1,709
+2023-10-28,Electronics,Asia,1,831
+2023-10-24,Electronics,North America,1,403
+2023-07-08,Books,North America,1,377
+2023-01-20,Electronics,Asia,0,598
+2021-12-29,Fashion,Europe,0,428
+2023-03-17,Books,North America,0,472
+2023-01-09,Home,Europe,0,647
+2023-11-05,Books,North America,0,118
+2022-04-30,Fashion,Asia,0,763
+2021-01-28,Fashion,Asia,1,514
+2022-12-15,Books,Asia,0,417
+2023-11-29,Books,North America,1,482
+2021-03-27,Electronics,Europe,1,492
+2021-05-06,Fashion,Europe,1,153
+2023-03-23,Books,Europe,1,798
+2022-06-21,Books,North America,0,508
+2021-05-25,Fashion,North America,1,588
+2021-01-25,Books,North America,1,690
+2021-03-08,Electronics,North America,0,295
+2021-08-21,Fashion,North America,0,594
+2021-04-19,Electronics,Europe,1,446
+2021-04-21,Electronics,North America,0,669
+2021-08-16,Electronics,North America,0,74
+2021-04-21,Electronics,Europe,0,480
+2021-02-03,Fashion,North America,0,379
+2022-09-15,Electronics,Europe,0,586
+2023-01-18,Electronics,Europe,1,594
+2022-08-18,Books,Asia,0,358
+2022-03-01,Fashion,Asia,0,357
+2022-09-05,Fashion,Asia,0,477
+2022-11-23,Home,Asia,0,320
+2021-11-11,Fashion,North America,1,668
+2023-05-27,Fashion,Asia,0,426
+2022-10-24,Home,Europe,0,0
+2021-10-04,Fashion,North America,0,425
+2022-09-16,Fashion,Asia,0,292
+2022-05-31,Fashion,Europe,1,173
+2023-04-23,Fashion,North America,1,252
+2021-12-16,Home,North America,0,521
+2023-04-03,Fashion,Asia,0,765
+2023-01-29,Fashion,North America,0,562
+2023-06-18,Home,Europe,0,378
+2021-08-31,Books,North America,0,591
+2022-06-27,Electronics,Europe,0,408
+2023-11-30,Books,North America,0,361
+2021-08-17,Home,Asia,0,269
+2022-07-02,Electronics,Europe,1,149
+2023-07-09,Home,North America,1,422
+2021-01-06,Home,North America,0,531
+2022-04-13,Fashion,North America,1,480
+2021-03-16,Electronics,Europe,0,416
+2021-01-04,Fashion,Europe,0,310
+2022-10-08,Electronics,Europe,1,621
+2021-04-28,Home,Asia,1,236
+2023-05-31,Home,Asia,1,655
+2022-05-19,Books,Europe,0,299
+2023-08-05,Electronics,North America,0,349
+2022-07-28,Fashion,Asia,1,206
+2021-07-13,Books,Europe,0,399
+2023-04-27,Books,North America,0,695
+2022-12-16,Books,Asia,0,603
+2023-11-16,Fashion,North America,0,695
+2021-06-22,Books,North America,0,604
+2021-11-22,Fashion,North America,0,279
+2023-04-16,Books,North America,1,433
+2022-12-25,Fashion,Asia,0,343
+2021-08-13,Home,Asia,0,766
+2022-06-16,Home,Asia,0,260
+2021-04-23,Home,Europe,0,678
+2021-05-20,Home,Asia,0,678
+2022-07-13,Home,North America,0,865
+2021-01-01,Books,Asia,1,418
+2021-03-31,Books,North America,0,642
+2022-10-16,Books,Europe,1,956
+2021-11-16,Fashion,North America,0,376
+2021-05-19,Fashion,North America,0,192
+2023-04-25,Fashion,North America,0,123
+2021-09-16,Fashion,Europe,0,642
+2023-06-21,Home,Asia,1,123
+2022-11-21,Home,Asia,0,425
+2021-01-10,Home,Europe,0,587
+2021-09-18,Electronics,North America,1,537
+2021-06-21,Books,Asia,1,585
+2023-06-17,Fashion,Europe,1,544
+2021-01-13,Fashion,Asia,0,755
+2021-11-17,Home,Europe,1,309
+2021-11-25,Fashion,North America,0,364
+2023-02-24,Fashion,Asia,0,345
+2023-02-16,Books,Europe,0,666
+2023-06-30,Home,Asia,0,680
+2021-11-14,Books,Asia,0,590
+2021-08-24,Electronics,Asia,0,736
+2021-11-30,Electronics,Asia,1,264
+2022-01-11,Electronics,Europe,0,833
+2022-08-11,Home,North America,0,804
+2022-05-28,Fashion,Europe,0,647
+2023-07-07,Home,Europe,1,856
+2023-05-23,Home,Europe,0,168
+2021-09-27,Fashion,North America,0,395
+2023-03-09,Books,Asia,1,352
+2022-12-26,Electronics,Asia,1,644
+2021-01-05,Books,Asia,0,289
+2023-05-01,Electronics,North America,0,651
+2021-03-19,Home,Asia,1,774
+2022-07-28,Electronics,North America,0,639
+2021-05-12,Home,Asia,0,556
+2022-08-24,Books,Asia,1,302
+2023-12-02,Home,Europe,0,330
+2021-03-30,Books,North America,0,749
+2022-02-06,Fashion,Europe,0,655
+2021-10-23,Fashion,Europe,0,492
+2022-09-08,Fashion,Europe,0,416
+2023-03-11,Home,North America,1,94
+2022-02-26,Fashion,North America,0,285
+2023-11-13,Electronics,Asia,0,882
+2022-07-29,Books,Europe,0,243
+2021-05-23,Books,Asia,0,537
+2023-09-20,Electronics,Europe,1,701
+2022-10-27,Home,North America,0,249
+2021-05-25,Home,North America,0,536
+2023-10-04,Books,North America,0,687
+2022-05-18,Fashion,Europe,0,502
+2023-04-01,Home,North America,0,1073
+2021-04-14,Home,Europe,1,166
+2023-11-29,Electronics,Asia,1,711
+2021-07-17,Electronics,Europe,0,465
+2022-08-02,Fashion,Asia,0,654
+2022-01-26,Home,Europe,1,588
+2022-07-08,Home,Asia,1,353
+2023-11-05,Electronics,North America,0,545
+2022-04-23,Home,Asia,0,128
+2023-07-12,Books,North America,0,620
+2022-02-24,Electronics,North America,1,559
+2021-06-06,Fashion,Asia,1,627
+2022-07-04,Electronics,Europe,0,711
+2023-10-18,Home,Europe,0,573
+2023-09-24,Fashion,Europe,1,529
+2023-08-09,Electronics,Europe,1,323
+2021-10-16,Books,Europe,1,357
+2021-07-15,Books,North America,1,737
+2022-08-21,Electronics,Europe,0,787
+2022-06-01,Books,North America,0,452
+2023-05-15,Books,North America,0,509
+2023-03-17,Books,North America,0,319
+2023-03-26,Fashion,Asia,0,734
+2021-08-16,Books,Asia,1,633
+2021-08-04,Books,North America,0,888
+2023-08-06,Books,Asia,1,324
+2021-01-15,Fashion,Europe,0,424
+2021-02-16,Electronics,Europe,1,546
+2021-11-20,Home,North America,0,629
+2023-04-24,Books,Europe,0,456
+2021-05-10,Electronics,North America,0,325
+2021-04-05,Books,North America,0,676
+2022-09-19,Fashion,Europe,1,644
+2023-01-25,Electronics,Asia,1,316
+2023-03-05,Fashion,Europe,0,771
+2021-03-10,Books,Europe,0,734
+2021-01-11,Books,North America,0,526
+2023-05-22,Fashion,North America,0,515
+2022-07-04,Home,North America,1,610
+2022-12-13,Fashion,North America,1,327
+2021-01-23,Books,Asia,0,506
+2023-03-26,Fashion,Asia,1,69
+2021-12-12,Home,Asia,0,675
+2021-10-29,Fashion,North America,1,187
+2021-12-29,Home,North America,0,800
+2022-01-31,Home,North America,1,433
+2021-08-06,Fashion,Asia,1,457
+2021-05-21,Fashion,North America,0,374
+2023-08-16,Electronics,Europe,1,442
+2023-09-12,Books,Europe,0,783
+2023-09-20,Home,North America,0,2
+2023-04-08,Electronics,Europe,0,755
+2022-11-14,Fashion,Europe,1,567
+2023-10-01,Books,Asia,1,258
+2021-12-22,Electronics,North America,1,284
+2023-10-05,Home,North America,1,835
+2023-06-07,Electronics,Asia,0,310
+2021-05-07,Home,Europe,1,269
+2023-10-06,Fashion,Europe,0,727
+2022-08-27,Books,North America,0,567
+2023-10-11,Books,Europe,0,312
+2021-02-20,Books,Asia,1,543
+2023-11-19,Fashion,Asia,1,294
+2023-02-18,Home,North America,0,720
+2023-03-25,Fashion,Asia,0,712
+2022-02-24,Books,Asia,1,606
+2023-09-10,Fashion,North America,0,572
+2023-04-05,Fashion,Asia,1,852
+2023-10-22,Fashion,Asia,1,499
+2022-07-21,Home,Asia,0,263
+2022-01-06,Electronics,Europe,0,589
+2023-07-25,Electronics,North America,1,917
+2022-10-23,Fashion,North America,1,297
+2023-08-27,Electronics,North America,0,427
+2021-07-21,Electronics,Europe,1,583
+2021-11-09,Fashion,Europe,0,489
+2021-04-27,Fashion,North America,0,303
+2023-07-26,Books,Europe,1,724
+2022-07-29,Electronics,North America,1,964
+2021-09-01,Home,Europe,0,539
+2022-06-21,Fashion,Asia,1,319
+2021-03-16,Books,Asia,0,190
+2022-01-21,Home,North America,0,551
+2022-04-20,Electronics,Europe,0,720
+2022-02-22,Books,Europe,1,595
+2021-12-13,Fashion,Asia,0,499
+2022-10-02,Home,Asia,0,382
+2023-07-28,Fashion,Europe,0,281
+2023-08-13,Electronics,Europe,1,666
+2023-05-26,Home,Europe,0,682
+2023-02-02,Electronics,Europe,1,190
+2022-10-26,Electronics,Europe,0,817
+2021-01-25,Books,Europe,0,614
+2022-12-11,Fashion,North America,0,779
+2021-06-26,Home,Europe,1,231
+2021-10-12,Electronics,Asia,1,226
+2021-03-04,Electronics,North America,0,470
+2023-09-30,Home,Europe,0,600
+2022-10-24,Electronics,Asia,0,859
+2022-10-28,Books,North America,0,641
+2021-06-05,Books,Asia,0,451
+2023-12-09,Books,Europe,0,294
+2023-08-25,Books,Europe,0,746
+2023-04-29,Electronics,Europe,0,307
+2022-11-20,Home,Europe,0,825
+2021-05-28,Home,North America,1,443
+2021-12-08,Home,North America,0,818
+2022-04-21,Home,Asia,0,635
+2023-12-23,Fashion,Europe,1,472
+2022-07-15,Home,Asia,0,396
+2021-11-23,Fashion,North America,0,431
+2023-09-17,Fashion,Europe,0,585
+2021-08-03,Books,Europe,0,515
+2022-03-11,Fashion,North America,0,381
+2023-08-10,Electronics,North America,0,466
+2022-12-24,Fashion,North America,1,515
+2021-02-01,Books,North America,0,74
+2022-11-01,Fashion,North America,0,591
+2021-10-12,Electronics,Europe,0,304
+2022-03-05,Electronics,North America,0,269
+2021-10-13,Electronics,Europe,0,162
+2023-11-09,Books,Europe,1,141
+2021-01-18,Books,North America,0,228
+2023-02-08,Home,North America,0,358
+2022-08-13,Books,Europe,0,890
+2023-10-07,Electronics,North America,0,394
+2021-07-13,Electronics,North America,1,535
+2022-05-17,Books,North America,0,580
+2023-09-15,Fashion,Asia,0,526
+2021-04-24,Books,Europe,0,484
+2023-08-05,Books,Asia,1,260
+2023-04-11,Electronics,North America,0,790
+2023-07-14,Home,Asia,0,861
+2021-02-24,Electronics,North America,1,163
+2023-03-11,Home,Asia,1,295
+2023-02-17,Electronics,North America,0,444
+2021-06-11,Books,Asia,0,307
+2021-03-28,Electronics,Asia,0,601
+2021-02-24,Electronics,Asia,0,354
+2023-10-29,Electronics,Europe,0,933
+2023-04-13,Books,Asia,0,738
+2021-11-09,Books,Europe,0,542
+2023-01-29,Books,North America,0,705
+2022-03-19,Books,Asia,0,721
+2021-11-24,Home,North America,1,387
+2023-12-14,Home,North America,0,336
+2023-01-31,Fashion,Asia,0,515
+2022-08-02,Books,Europe,0,672
+2023-12-11,Home,Asia,1,527
+2023-10-04,Electronics,North America,0,184
+2021-04-06,Books,North America,0,339
+2023-03-25,Fashion,Asia,0,485
+2022-05-06,Fashion,Europe,0,484
+2022-03-28,Fashion,Europe,0,894
+2021-06-14,Electronics,North America,0,222
+2021-07-01,Home,North America,0,601
+2022-04-14,Electronics,Europe,1,797
+2023-06-29,Books,Asia,0,954
+2023-01-05,Fashion,North America,0,419
+2023-04-03,Electronics,Europe,1,598
+2023-08-02,Electronics,North America,0,613
+2021-01-07,Home,Asia,0,539
+2021-11-26,Home,Europe,0,480
+2023-02-14,Fashion,North America,0,587
+2021-05-31,Electronics,Asia,1,0
+2021-05-27,Electronics,North America,1,636
+2023-07-04,Home,Asia,0,525
+2022-12-01,Electronics,Asia,0,455
+2021-03-23,Electronics,Europe,1,909
+2022-05-29,Electronics,Asia,1,365
+2023-03-26,Home,North America,1,419
+2022-12-10,Fashion,Asia,0,898
+2023-01-16,Books,Asia,0,333
+2023-10-20,Fashion,Europe,1,389
+2022-12-08,Books,Asia,0,470
+2022-04-16,Electronics,Asia,0,668
+2022-01-31,Fashion,North America,0,541
+2021-09-18,Books,Europe,0,241
+2023-03-16,Home,Europe,0,393
+2023-07-23,Home,Europe,0,378
+2023-06-24,Fashion,Asia,1,484
+2023-12-13,Fashion,Europe,0,585
+2023-07-29,Electronics,Asia,1,583
+2023-05-04,Fashion,Asia,0,144
+2022-08-16,Electronics,North America,0,712
+2022-12-15,Electronics,North America,1,550
+2022-09-24,Home,North America,0,776
+2021-02-28,Home,North America,0,588
+2021-05-08,Books,North America,0,720
+2023-01-06,Home,Asia,0,593
+2022-12-22,Home,Asia,1,769
+2022-06-10,Fashion,Europe,1,604
+2022-06-05,Home,Asia,0,480
+2022-07-06,Books,Asia,0,954
+2021-08-25,Fashion,North America,0,677
+2022-05-09,Books,Asia,1,614
+2021-01-04,Home,North America,0,244
+2022-10-28,Books,Europe,0,242
+2022-03-18,Fashion,Europe,0,558
+2021-01-29,Electronics,Asia,0,529
+2022-09-02,Books,Europe,0,377
+2023-03-16,Books,Asia,1,528
+2021-03-16,Fashion,Europe,0,817
+2023-04-18,Fashion,North America,0,639
+2021-05-08,Books,North America,1,271
+2021-02-11,Home,North America,1,477
+2021-02-10,Books,North America,0,339
+2023-07-23,Fashion,Asia,0,422
+2021-02-03,Electronics,Europe,0,417
